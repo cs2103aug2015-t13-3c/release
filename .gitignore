@@ -7,8 +7,9 @@
 
 # These are TextBuddy files
 !README.md
+!HISTORY.md
 !setup.bat
 !tb.bat
 !tb.exe
-!tbclean.bat
+!tbcleanup.bat
 !tbconfig.bat

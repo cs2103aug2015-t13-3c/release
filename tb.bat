@@ -1,2 +1,3 @@
-start TextBuddy\tb.exe
+cd TextBuddy
+start tb.exe
 exit

@@ -2,16 +2,18 @@
 
 LAUNCH
 ======
-After configuring, you can run TextBuddy through command prompt by pressing Win+R, type "cmd" and press Enter, then type "tb". 
-Alternatively, to launch TextBuddy from File Explorer, click "tb.bat".
+To launch TextBuddy directly, click "tb.exe".
+
+After setup, you can run TextBuddy through command prompt by pressing Win+R, type "cmd" and press Enter, then type "tb".
 
 
-SETUP
-=====
+SETUP (OPTIONAL)
+================
 Click "setup.bat" to configure TextBuddy for the first time.
 This moves TextBuddy to its own folder in your user directory.
 
 
-CLEAN
-=====
+CLEANUP
+=======
+This only works if setup was run correctly after download.
 To remove all files used by TextBuddy, click "tbcleanup.bat".

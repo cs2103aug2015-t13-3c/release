@@ -13,7 +13,7 @@ echo mkdir %target%
 echo move HISTORY.md %target%
 echo move README.md %target%
 echo move LICENSE %target%
-echo move tb.exe %target%
+echo move TextBuddy.exe %target%
 echo move tbcleanup.bat %target%
 
 ## Move launcher to user directory

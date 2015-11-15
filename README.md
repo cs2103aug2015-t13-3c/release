@@ -1,18 +1,49 @@
-# V0.2.0 (Proof-of-concept prototype)
+Before setup
+============
 
 LAUNCH
-======
-To launch TextBuddy directly, run "TextBuddy.exe".
+------
+Navigate to the folder and run `TaskShark.exe`.
 
-After setup, you can run TextBuddy through command prompt by pressing Win+R, type "cmd" and press Enter, then type "tb".
+
+UNINSTALL
+---------
+Navigate to the folder and run `uninst.bat`.
 
 
 SETUP (OPTIONAL)
-================
-Run "setup.bat" to configure TextBuddy for the first time.
-This moves TextBuddy to its own folder in your user directory.
+----------------
+Run `setup.bat` to configure TaskShark for the first time.
+This moves TaskShark to its own folder in your user directory.
+
+___
 
 
-CLEANUP
-=======
-To remove all files used by TextBuddy, run "tbcleanup.bat".
+After setup
+===========
+
+LAUNCH
+------
+Press Win+R and type `ts`.
+
+
+UNINSTALL
+---------
+Press Win+R and type `%HOMEPATH%\TaskShark\uninst`.
+
+___
+
+
+Links
+-----
+- [User Guide](UserGuide.pdf)
+- [Developer Guide](DevGuide.pdf)
+- [HISTORY](HISTORY.md)
+- [LICENSE](LICENSE)
+
+
+Credits
+-------
+- [RapidJSON](https://github.com/miloyip/rapidjson)
+- [MetroFramework](http://thielj.github.io/MetroFramework)
+- [shark.ico](http://www.timvandevall.com/templates/free-cartoon-shark-clipart-for-kids/)

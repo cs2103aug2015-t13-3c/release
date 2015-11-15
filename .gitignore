@@ -1,14 +1,25 @@
-# Ignore everything
+# Ignore everything else
 *
 
-# Except these files
+# Except this file
 !.gitignore
-!LICENSE
 
-# These are TextBuddy files
+# Required for all users
+!LICENSE
 !README.md
-!HISTORY.md
+!TaskShark.exe
+!help.png
+!shark.ico
+!MetroFramework.dll
+!MetroFramework.Design.dll
+!MetroFramework.Fonts.dll
+
+# Recommended for all users
 !setup.bat
-!tb.bat
-!tbcleanup.bat
-!TextBuddy.exe
+!ts.bat
+!uninst.bat
+!UserGuide.pdf
+
+# Recommended for advanced users
+!HISTORY.md
+!DevGuide.pdf
